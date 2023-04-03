@@ -1,3 +1,3 @@
-## Meme Generator React App
+## Meme Generator React Application
 
 🌎 Website: https://getrealmemes.netlify.app/
